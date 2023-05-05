@@ -1,0 +1,30 @@
+label {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 10px;
+  line-height: 3rem;
+}
+
+input {
+  display: inline;
+  height: 2rem;
+  border: 1px solid #5e6072;
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+
+input[type="text"] {
+  padding: 10px 10px;
+}
+
+.short {
+  width: 24%;
+}
+
+.medium {
+  width: 48%;
+}
+
+.long {
+  width: 96%;
+}

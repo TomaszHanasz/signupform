@@ -13,3 +13,8 @@
   -moz-box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 6px 6px 5px 0px rgba(0, 0, 0, 0.75);
 }
+
+.btn:active {
+  color: #3c2827;
+  background-color: white;
+}
